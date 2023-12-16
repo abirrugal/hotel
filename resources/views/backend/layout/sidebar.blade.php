@@ -9,7 +9,7 @@
                       <div class="main-menu mb-4">
                           <div class="menu-inner">
                               <nav>
-                                  <ul class="metismenu" id="menu">
+                                  <ul class="metismenu" id="menu" style="margin-bottom: 130px">
                                       {{--  Room   --}}
                                       <li>
                                           <a href="javascript:void(0)" aria-expanded="true"><i
